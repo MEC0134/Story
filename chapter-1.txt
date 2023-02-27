@@ -1,1 +1,2 @@
-This is the first chapter of our git tutorial. This is the first file to be commited. 
+This is the first chapter of our git tuto. This is the first file to be commited. 
+And now there are changes. 
